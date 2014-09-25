@@ -1,0 +1,14 @@
+{
+  "name": "alt-column-selection",
+  "main": "./lib/alt-column-selection",
+  "version": "0.1.0",
+  "description": "A fork of sublime-style-column-select without the \"sticky\" problems.",
+  "repository": "https://github.com/mark-hahn/alt-column-selection",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.127.0"
+  },
+  "dependencies": {
+    "emissary": "1.x"
+  }
+}
